@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1,
+    "Nome": "madeira",
+    "Preco": 12.00,
+    "DataAtual": "2025-08-12T21:02:26.3719607+00:00",
+    "Desconto": null
+    
+  },
+  {
+    "ID": 2,
+    "Nome": "chapa de ferro",
+    "Preco": 20.00,
+    "DataAtual": "2025-08-12T21:02:26.3719607+00:00",
+    "Desconto": 10
+  }
+]

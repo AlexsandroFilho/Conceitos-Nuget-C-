@@ -1,0 +1,17 @@
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\bin\Debug\net8.0\nuget.exe
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\bin\Debug\net8.0\nuget.deps.json
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\bin\Debug\net8.0\nuget.runtimeconfig.json
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\bin\Debug\net8.0\nuget.dll
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\bin\Debug\net8.0\nuget.pdb
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.csproj.AssemblyReference.cache
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.AssemblyInfoInputs.cache
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.AssemblyInfo.cs
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.csproj.CoreCompileInputs.cache
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.csproj.Up2Date
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.dll
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\refint\nuget.dll
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.pdb
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.genruntimeconfig.cache
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\ref\nuget.dll
