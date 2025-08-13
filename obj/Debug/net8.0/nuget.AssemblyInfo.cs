@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nuget")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec83f1673f68cb7820da3a05f8cfbc59652d4d55")]
 [assembly: System.Reflection.AssemblyProductAttribute("nuget")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nuget")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

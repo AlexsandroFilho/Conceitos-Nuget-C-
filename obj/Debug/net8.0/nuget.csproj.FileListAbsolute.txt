@@ -15,3 +15,4 @@ C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\refint\nug
 C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.pdb
 C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.genruntimeconfig.cache
 C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\ref\nuget.dll
+C:\Users\alexo\OneDrive\Área de Trabalho\Dio1\nuget\obj\Debug\net8.0\nuget.sourcelink.json

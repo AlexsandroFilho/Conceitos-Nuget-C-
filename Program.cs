@@ -36,7 +36,7 @@ foreach (Venda venda in vendas)
 
 //Tipo anonimo 
 
-var tipoAnonimo = new { nome = "Alex", contaCorrente = 1312.54M };
+/* var tipoAnonimo = new { nome = "Alex", contaCorrente = 1312.54M };
 
 Console.WriteLine($"Nome: {tipoAnonimo.nome}");
 Console.WriteLine($"Saldo: {tipoAnonimo.contaCorrente}");
@@ -52,4 +52,16 @@ var listaAnonima = vendas.Select(x => new { x.Nome, x.Preco });
 foreach (var venda in listaAnonima)
 {
     Console.WriteLine($"Produto: {venda.Nome}, Preço: {venda.Preco}");
-}
+} */
+
+//Usando a Classe genérica
+
+MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+arrayInteiro.AdicionarElementoArray(30);
+Console.WriteLine(arrayInteiro[0]);
+
+MeuArray<string> arrayString = new MeuArray<string>();
+
+arrayString.AdicionarElementoArray("Alex");
+Console.WriteLine(arrayString[0]);
